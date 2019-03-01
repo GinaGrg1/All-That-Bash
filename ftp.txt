@@ -1,0 +1,7 @@
+open mirrors.xmission.com
+user anonymous nothinghere
+ascii
+cd gutenberg
+get GUTINDEX.1996
+
+# To use do : $ ftp -n < ftp.txt
